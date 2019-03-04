@@ -1,8 +1,11 @@
 # lab1
 ~skip
+
 int main()
+
 {
-	int n;//1. input n 
+	
+        int n;//1. input n 
         
 	cout << "enter a number for n:";//let user enter a number as n
         
